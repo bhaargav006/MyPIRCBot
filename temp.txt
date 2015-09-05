@@ -1,0 +1,106 @@
+copy to text 1
+1
+2
+3
+cool
+time
+copy to text 1
+copy to text 2
+time
+hello
+genesis_ : copy to text 1
+whoami : time
+genesis_ : copy to text 2
+genesis_ : time
+whoami : stop
+genesis_ : k
+whoami : morning
+whoami : morning
+whoami : morning
+whoami : time
+IAmREBel : : The time is now Thu Aug 20 18:44:01 IST 2015
+whoami : hello
+whoami : hi
+whoami : tpe 
+whoami : type
+whoami : time
+IAmREBel : : The time is now Thu Aug 20 18:49:21 IST 2015
+whoami : hello
+whoami : hello
+whoami : copy
+whoami : time
+IAmREBel : whoami: The time is now Thu Aug 20 18:53:07 IST 2015
+genesis_ : time
+IAmREBel : genesis_: The time is now Thu Aug 20 18:53:40 IST 2015
+whoami : hello
+whoami : genesis type 
+whoami : something to test
+genesis_ : type eaht
+genesis_ : time
+IAmREBel : genesis_: The time is now Thu Aug 20 18:57:09 IST 2015
+whoami : time
+IAmREBel : whoami: The time is now Thu Aug 20 18:57:10 IST 2015
+whoami : stop now
+genesis_ : time
+IAmREBel : genesis_: The time is now Thu Aug 20 19:02:07 IST 2015
+genesis_ : time
+IAmREBel : genesis_: The time is now Thu Aug 20 19:05:27 IST 2015
+genesis_ : time
+Thu Aug 20 19:11:08 IST 2015
+genesis_ : time
+blahblah : Thu Aug 20 19:14:11 IST 2015
+genesis_ : time
+blahblah(bot) : genesis_ : Sat Aug 22 19:41:24 IST 2015
+genesis_ : remind
+genesis_ : time
+blahblah(bot) : genesis_ : Sat Aug 22 19:42:06 IST 2015
+genesis_ : hi bot
+genesis_ : hi bot
+genesis_ : changenick blahblah
+genesis_ : ChangeNick blahblah
+genesis_ : see it will add number after nick and connect
+genesis_ : i dunno why genesis_1 is not coming but whatever
+hellohappiness : ohk
+hellohappiness : cool
+genesis_ : type hi bot
+hellohappiness : hi bot
+genesis_ : its lame , but still 
+genesis_ : hi bot
+hellohappiness : not showing who_is for the bot
+genesis_ : it is
+genesis_ : ur op btw
+genesis_ : make me op 1 sec
+genesis_ : wth lol
+hellohappiness : op?
+genesis_ : admin
+genesis_ : operator
+hellohappiness : for what?
+genesis_ : this channel
+genesis_ : u can kick and stuff
+genesis_ : u created the channel
+genesis_ : if ur nick has @ , then they are op
+hellohappiness : oh
+hellohappiness : thats why
+genesis_ : make me op
+hellohappiness : ohk
+hellohappiness : done
+genesis_ : u can still see who is no ?
+genesis_ : what's the problem
+hellohappiness : cant do ho is for bot
+hellohappiness : *who
+genesis_ : u can
+hellohappiness : yeah nw i can
+genesis_ : its coming for me anyway
+genesis_ : so u say my doubt
+hellohappiness : doubt?
+hellohappiness : which one?
+hellohappiness : make me op
+genesis_ : lol u kicked urself ! 
+genesis_ : hahah
+genesis_ : nup
+hellohappiness : i knw
+hellohappiness : just experimenting
+hellohappiness : :/
+try1 : affa
+try1 : 1
+try1 : 2
